@@ -204,3 +204,4 @@ streamlit run app.py
 
 - **Offensive Speech Prediction**  
   ![Offensive](./offensive.png)
+
