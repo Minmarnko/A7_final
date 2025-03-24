@@ -35,9 +35,9 @@ A7_final/
 │   └── app.py                      # Streamlit Web App
 ├── Hate_Speech.png
 ├── offensive.png
-├── Test_Accuracy_Comparison_of_Three_Models.png
+├── Test_Accuracy_Comparison_of_Three_Models_new.png
 ├── Test_Accuracy_Comparison_of_Two_Models.png
-├── Training_Loss_Comparison_of_Three_Models.png
+├── Training_Loss_Comparison_of_Three_Models_new.png
 ├── Training_Loss_Comparison_of_Two_Models.png
 ```
 
@@ -166,13 +166,13 @@ While the Even-Layer model achieved slightly higher **final accuracy**, the **Od
 ### 🔹 Training & Evaluation Curves
 
 - **Training Loss - All Models**  
-  ![Training Loss of Three Models](./Training_Loss_Comparison_of_Three_Models.png)
+  ![Training Loss of Three Models](./Training_Loss_Comparison_of_Three_Models_new.png)
 
 - **Training Loss - Odd vs Even**  
   ![Training Loss of Two Models](./Training_Loss_Comparison_of_Two_Models.png)
 
 - **Test Accuracy - All Models**  
-  ![Test Accuracy of Three Models](./Test_Accuracy_Comparison_of_Three_Models.png)
+  ![Test Accuracy of Three Models](./Test_Accuracy_Comparison_of_Three_Models_new.png)
 
 - **Test Accuracy - Odd vs Even**  
   ![Test Accuracy of Two Models](./Test_Accuracy_Comparison_of_Two_Models.png)
