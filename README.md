@@ -1,4 +1,3 @@
-```markdown
 # NLP-A7-Distillation_vs_LoRA
 
 In this assignment, we explore and compare the performance of **Odd-Layer** and **Even-Layer Student Training Models** against **LoRA (Low-Rank Adaptation)** on a distillation task using BERT models from Hugging Face.
